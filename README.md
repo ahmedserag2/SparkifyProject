@@ -20,6 +20,9 @@ Note : this project has 3 dataset versions here i was using the 125 mb version
 ## room for improvments
 - more features could be used especially categorical variables 
 - modularize code into functions inorder to run them as scripts in the future 
+
+
 ## acknowledgments
 udacity for providing such a unique dataset and the spark course 
 
+#### mediuim post : https://medium.com/@ahmedserag2000/detecting-customer-churn-rates-fb1e2eb2382
